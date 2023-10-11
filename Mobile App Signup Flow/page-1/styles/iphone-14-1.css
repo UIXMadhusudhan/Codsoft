@@ -1,0 +1,110 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.iphone-14-1-TKw {
+  box-sizing: border-box;
+  padding-top: 6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 2.4rem;
+}
+.iphone-14-1-TKw .auto-group-k9af-PN1 {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 48rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.iphone-14-1-TKw .auto-group-k9af-PN1 .rectangle-1-4Mf {
+  width: 35rem;
+  height: 48rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(153.31deg, rgba(221, 208, 239, 0.7900000215) 3.24%, rgba(221, 208, 239, 0.1899999976) 98.76%);
+  border-radius: 2.4rem;
+}
+.iphone-14-1-TKw .auto-group-k9af-PN1 .d-purple-financial-and-investment-icon-illustration-rendering-png-1-SND {
+  width: 39rem;
+  height: 41.6rem;
+  position: absolute;
+  left: 0;
+  top: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.iphone-14-1-TKw .best-way-to-invest-your-money-7DT {
+  margin-right: 0.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-14-1-TKw .auto-group-xsvt-PAy {
+  box-sizing: border-box;
+  padding: 5.4rem 3.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-14-1-TKw .auto-group-xsvt-PAy .group-1-uf7 {
+  margin-bottom: 2.8rem;
+  width: 100%;
+  height: 5.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #af21e8;
+  border-radius: 0.8rem;
+  box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.iphone-14-1-TKw .auto-group-xsvt-PAy .group-2-Hff {
+  width: 100%;
+  height: 5.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #dfeaef;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  border-radius: 0.8rem;
+  box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
